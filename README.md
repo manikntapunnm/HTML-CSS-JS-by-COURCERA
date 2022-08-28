@@ -1,1 +1,1 @@
-# HTML-CSS-JS-ny-courcera
+# HTML-CSS-JS-by-courcera
